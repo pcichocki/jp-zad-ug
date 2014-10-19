@@ -13,7 +13,7 @@ cd dom
 mkdir wazne-sprawy
 ```
 
-3\Wejdź do katalogu wazne-sprawy i utwórz tam pusty plik rachunki.txt.
+3\.Wejdź do katalogu wazne-sprawy i utwórz tam pusty plik rachunki.txt.
 
 ```sh
 cd wazne-sprawy
@@ -62,7 +62,7 @@ cp odtworzono.txt ~/temp/dom/wazne-sprawy/
 Brak jakichkolwiek różnic. :)
 ```
 
-10.\Wyświetl kalendarz na październik 2009 r.
+10\.Wyświetl kalendarz na październik 2009 r.
 
 ```sh
 cal oct 2009
