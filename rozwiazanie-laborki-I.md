@@ -37,7 +37,7 @@ mv rachunki.txt wykonano.txt
 
 ```sh
 touch wykonano.txt
-atom wykonano. txt
+atom wykonano.txt
 ```
 _Okazuje się, że gdy wpiszemy w plik .txt ciąg znaków '1234567890' to plik ten ma  11 bajtów. ;)_
 
