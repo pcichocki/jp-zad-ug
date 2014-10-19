@@ -71,7 +71,7 @@ cal oct 2009
 Wyświetl kalendarz na wrzesień, październik i listopad 2009 r. z miesiącami obok siebie (cal):
 
 ```sh
-cal -3 oct  20
+cal -3 oct  2009
 ```
 
 Wyświetl kalendarz na październik, listopad i grudzień 2009 r. w taki sposób:
@@ -82,7 +82,13 @@ cal -3 nov 2009
 I jeszcze raz na wrzesień i październik oraz na październik i listopad 2009 r z miesiącami obok siebie:
 
 ```sh
+cal -A 1 sep 2009
+cal -A 1 oct 2009
+```
 
+11\.Jaki był dzień tygodnia 25 maja 1975 r.?
+
+```sh
 
 
 
