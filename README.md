@@ -1,4 +1,3 @@
-jp-zad-ug
-=========
+##bash -- zadania
 
-rozwiązania zadań
+1. Zadanie .....
