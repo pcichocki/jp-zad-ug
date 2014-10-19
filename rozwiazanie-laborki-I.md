@@ -56,10 +56,10 @@ cp ~/temp/praca/zlecenia/zrealizowane/{xaa,xab,xac} ~/temp/praca/dokumenty/
 cat xaa xab xac > odtworzono.txt
 cp odtworzono.txt ~/temp/dom/wazne-sprawy/
 ```
-9.\Będąc w katalogu wazne-sprawy sprawdź, czy są jakieś różnice w zawartości plików wykonano.txt i odtworzono.txt.
+9\.Będąc w katalogu wazne-sprawy sprawdź, czy są jakieś różnice w zawartości plików wykonano.txt i odtworzono.txt.
 
 ```sh
-_Brak jakichkolwiek różnic. :)_
+Brak jakichkolwiek różnic. :)
 ```
 
 10.\Wyświetl kalendarz na październik 2009 r.
@@ -68,14 +68,7 @@ _Brak jakichkolwiek różnic. :)_
 cal oct 2009
 ```
 
-
 Wyświetl kalendarz na wrzesień, październik i listopad 2009 r. z miesiącami obok siebie (cal):
-
-    wrzesień 2009       październik 2009        listopad 2009  
-ni po wt śr cz pi so  ni po wt śr cz pi so  ni po wt śr cz pi so  
-       1  2  3  4  5               1  2  3   1  2  3  4  5  6  7  
- 6  7  8  9 10 11 12   4  5  6  7  8  9 10   8  9 10 11 12 13 14  
-...                   ...                   ...
 
 ```sh
 cal -3 oct  20
@@ -83,24 +76,12 @@ cal -3 oct  20
 
 Wyświetl kalendarz na październik, listopad i grudzień 2009 r. w taki sposób:
 
-     październik             listopad               grudzień  
-ni po wt śr cz pi so   ni po wt śr cz pi so   ni po wt śr cz pi so  
-             1  2  3    1  2  3  4  5  6  7          1  2  3  4  5  
- 4  5  6  7  8  9 10    8  9 10 11 12 13 14    6  7  8  9 10 11 12  
-11 12 13 14 15 16 17   15 16 17 18 19 20 21   13 14 15 16 17 18 19  
-...                    ...                    ...  
-
 ```sh
 cal -3 nov 2009
 ```
 I jeszcze raz na wrzesień i październik oraz na październik i listopad 2009 r z miesiącami obok siebie:
 
-     październik             listopad  
-ni po wt śr cz pi so   ni po wt śr cz pi so  
-             1  2  3    1  2  3  4  5  6  7  
- 4  5  6  7  8  9 10    8  9 10 11 12 13 14  
-11 12 13 14 15 16 17   15 16 17 18 19 20 21  
-...                    ...
+```sh
 
 
 
