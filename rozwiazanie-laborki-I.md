@@ -58,9 +58,7 @@ cp odtworzono.txt ~/temp/dom/wazne-sprawy/
 ```
 9\.Będąc w katalogu wazne-sprawy sprawdź, czy są jakieś różnice w zawartości plików wykonano.txt i odtworzono.txt.
 
-```sh
-Brak jakichkolwiek różnic. :)
-```
+_Brak jakichkolwiek różnic_
 
 10\.Wyświetl kalendarz na październik 2009 r.
 
@@ -89,6 +87,10 @@ cal -A 1 oct 2009
 11\.Jaki był dzień tygodnia 25 maja 1975 r.?
 
 ```sh
+cal may 1975
+```
+
+_Według tego kalendarza to była niedziela. :)_
 
 
 
