@@ -36,5 +36,27 @@ mv dom/wazne-sprawy/ praca/
 6\.Zarchiwizuj cały katalog temp.
 
 ```sh
+tar -czf temp.tar temp/
+```
+
+7\. Usuń katalog temp.
+
+```sh
+rmdir --ignore-fail-on-non-empty temp/
+```
+
+8\. Odtwórz z archiwum katalog temp.
+
+```sh
+tar -xv temp.tar
+```
+
+9\. Posprzątaj na swoim koncie.
+
+```sh
+rm temp.tar
+rmdir --ignore-fail-on-non-empty temp/
+```
+
 
 
