@@ -7,6 +7,8 @@ cd /etc/
 more -5 passwd
 ```
 
+2\.
+
 
 
 
