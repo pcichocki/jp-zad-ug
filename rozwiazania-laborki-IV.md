@@ -31,3 +31,21 @@ cat passwd | sort --reverse --general-numeric-sort --key3
 ```sh
 cat /etc/passwd/ | sort --general-numeric-sort --key 4,3 --reverse
 ```
+
+6\.Podaj liczbę plików każdego użytkownika.
+
+```sh
+find /home/ -type f | wc -l
+```
+
+_Oczywiście pracując będąc zalogowanym na Sigmie brak uprawnień do wykonania polecenia._
+
+7\.Sporządź statystykę praw dostępu (dla każdego z praw dostępu podaj ile razy zostało ono przydzielone).
+
+```sh
+find -printf "%M\n" | sort | uniq -c
+```
+
+8\.Czy potrafisz odpowiedzieć jaki będzie efekt wykonania poniższych poleceń?
+
+1#
