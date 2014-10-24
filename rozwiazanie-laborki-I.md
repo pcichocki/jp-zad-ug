@@ -58,7 +58,7 @@ cp odtworzono.txt ~/temp/dom/wazne-sprawy/
 ```
 9\.Będąc w katalogu wazne-sprawy sprawdź, czy są jakieś różnice w zawartości plików wykonano.txt i odtworzono.txt.
 
-_Brak jakichkolwiek różnic_
+_Brak jakichkolwiek różnic._
 
 10\.Wyświetl kalendarz na październik 2009 r.
 
