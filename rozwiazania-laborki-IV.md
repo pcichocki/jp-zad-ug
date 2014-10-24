@@ -59,4 +59,6 @@ find -printf "%M\n" | sort | uniq -c
 9# Posortuje procesy i zapisze w pliku pssort.txt.  
 10# Wypisze plik lsout.txt, posortuje i zapisze do lssort.txt.  
 11# Posortuje listę zalogowanych użytkowników.  
-12# -//-  
+12# -//-
+
+_Reszta zadań niestety mnie na razie przerosła._
