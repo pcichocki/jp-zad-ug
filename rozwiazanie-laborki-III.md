@@ -51,7 +51,7 @@ find /var/ -type f |wc -l
 9\.Napisać polecenie zliczające ilość znaków z pierwszych trzech linii pliku /etc/passwd.
 
 ```sh
-head -n 1 passwd | wc -m
+head -n 3 passwd | wc -m
 ```
 
 
