@@ -14,6 +14,8 @@ ls -l |tr [:lower:] [:upper:]
 ls -l | cut -b 1-11,33-36,51-
 ```
 
+_Zauważyłem, że u mnie na domowym komputerze polecenie to działa prawidłowo, a na komputerze znajdującym się w pracowni źle wyświetla wynik. Wydaje się, że związane to jest z wypisywaniem formatu daty._
+
 3\.Wyświetl listę plików w aktualnym katalogu, posortowaną według rozmiaru pliku.
 
 ```sh
